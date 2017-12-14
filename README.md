@@ -1,2 +1,2 @@
 
-A program will test the null hypothesis
+A program to test the null hypothesis
